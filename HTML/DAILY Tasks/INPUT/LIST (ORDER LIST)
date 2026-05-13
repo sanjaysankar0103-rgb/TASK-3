@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List Example</title>
+</head>
+<body>
+    <ol>
+        <li>coffee</li>
+        <li>Tea</li>
+        <li>juice</li>
+    </ol>
+    <p>thiruvanmiyur<br>
+    146/524, adyar, Chennai, thiruvanmiyur, Chennai-600016, Tamil Nadu</p>
+</body>
+</html>
