@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>LARGE TITLE</h1>
+    <h2>MID TITLE</h2>
+    <h3>TITLE</h3>
+    <H4>SUB TITLE</h4>
+    <h5>MID SIZE</h5>
+    <h6>SMALL SIZE</h6>
+</body>
+</html>
