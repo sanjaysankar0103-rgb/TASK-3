@@ -1,0 +1,57 @@
+header{
+    background-color: bisque;
+}
+.title{
+    text-align: center;
+    font-size: 1.5cm;
+}
+.navi{
+    text-align: left;
+    word-spacing: 1.5cm;
+    text-align: center;
+}
+#formals{
+    width: 92%;
+    height: 92%;
+    padding-left: 100px;
+    word-spacing: 100%;
+    border-radius: 8%;
+    text-align:justify;
+    text-align: center;
+}
+#formals :hover{
+    width: 9.5%;
+    height: 9.5%;   
+    border-radius: 8%;
+}
+.lable{
+    word-spacing: 1.5cm;
+}
+.prize{
+    word-spacing: 115px;
+    text-shadow: 2;
+    text-align:justify;
+    text-align: center;
+}
+
+.HIGHLIGHT{
+   border-radius: 10cm;
+    color: rgb(0, 0, 0);
+}
+.search{
+   transform:translate(18.5cm,-2cm);
+}
+.login{
+transform:translate(39cm,-2.5cm);
+}
+.logintext{
+   transform:translate(39.9cm,-3.28cm);
+}
+.meesho{
+    transform:translate( 0.5cm,0cm);
+}
+
+.cart{
+transform: translate(43.9cm,2.5cm);
+word-spacing: 1cm;
+}

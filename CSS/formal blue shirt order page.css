@@ -1,0 +1,111 @@
+.title{
+    font-size: 1.5cm;
+}
+header{
+    text-align: center;
+    font-size: small;
+}
+.navi{
+    text-align: left;
+    word-spacing: 1.5cm;
+    text-align: center;
+    font-size: 0.5cm;
+}
+.image{
+   transform: translate(2.8cm,-15.5cm);
+}
+.prize{
+ transform: translate(0cm,0.6cm);
+}
+.shirttitle{
+    transform: translate(18.5cm,3cm);
+    font-size: 1.3cm;
+}
+.search{
+   transform:translate(20.5cm,-0.5cm);
+   
+}
+
+.strick{
+    transform: translate(4.5cm,-2cm);
+    opacity: 0.5;
+    font-size: 0.8cm;
+}
+.prize{
+    font-size: 1.9cm;
+    transform: translate(0cm,0.5cm);
+}
+.box{
+     width: 10px;
+  border: 2px solid rgb(25, 37, 44);
+  padding-left:25px;
+  padding-right:22.5%;
+  padding-top:15cm;
+  padding-bottom:-290px;
+  transform: translate(15cm);
+  transform: translate(2.69cm,-30.5cm);
+}
+
+.secbox {  width: 10px;
+  border: 2px solid rgb(25, 37, 44);
+  padding-left:25px;
+  padding-right:58%;
+  padding-top:80px;
+  padding-bottom: 250px;
+  transform: translate(17.5cm,-0.5cm);
+}
+.size{
+    transform: translate(23cm,-40cm);
+    word-spacing: 50%;
+    font-size: 0.8cm;
+    font-family:'Courier New', Courier, monospace
+}
+.cart{
+    transform: translate(22cm,-34.5cm);
+}
+.buynow{
+    transform: translate(32cm,-39.4cm);
+}
+.selectsize{
+    transform: translate(18cm,-47cm);
+    font-size: 0.8cm;
+}
+.delivery{
+    transform: translate(20.5cm,-40cm);
+}
+.FREEDELIVERY{
+    transform: translate(19cm,-40cm);
+    
+}
+.cashon{
+    transform: translate(28cm,-41.2cm);
+}
+.cash{
+     transform: translate(30.5cm,-45.1cm);
+}
+.returnbox{
+transform: translate(40cm,-49cm);
+}
+.return{
+transform: translate(38.5cm,-45.1cm);
+}
+button {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+.highlights{
+  border: 2px solid rgb(25, 37, 44);
+  padding-left:15px;
+  padding-right:25px;
+  padding-top:50px;
+  padding-bottom: 50px;
+  transform: translate(0cm,-0.5cm);
+  transform: translate(0cm,-47.5cm);
+  font-size: large;
+  text-align: center;
+}
+footer{
+ transform: translate(0,-45cm);
+}
