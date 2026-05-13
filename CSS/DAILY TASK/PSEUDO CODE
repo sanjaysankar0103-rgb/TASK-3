@@ -1,0 +1,25 @@
+H2 {
+    background-color: aquamarine;
+    color: blue;
+    padding: 50px;
+    text-align: center;
+}
+H2:hover {
+    background-color: black;
+    color: brown;
+}
+
+H2:focus {
+    background-color: black;
+    color: brown;
+}
+
+H2:active {
+    color: rgb(171, 102, 18);
+}
+
+H2:hover {
+    width: 50%;
+    height: 50%;
+    opacity: 0.5;
+}
