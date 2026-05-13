@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Page</title>
+</head>
+<body>
+
+    <h1>AI</h1>
+
+    <img src="AI.jpg" alt="ARTIFICIAL INTELLIGENCE" width="700" height="500">
+
+    <br><br>
+
+    <a href="Untitled-1.html">Click Here</a>
+
+</body>
+</html>
