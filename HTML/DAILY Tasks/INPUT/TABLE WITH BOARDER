@@ -1,0 +1,23 @@
+<table>
+  <tr>
+    <th>CAR</th>
+    <th>BIKE</th>
+    <th>SCHOOTY</th>
+  </tr>
+  <tr>
+    <td>AUDI</td>
+    <td>ROYAL ENFIELD</td>
+    <td>ACTIVA</td>
+  </tr>
+  <tr>
+    <td>BMW</td>
+    <td>RX100</td>
+    <td>DUE</td>
+  </tr>
+</table>
+
+<style>
+    table,th,tr,td{
+        border: 1px solid black;
+    }
+</style>
