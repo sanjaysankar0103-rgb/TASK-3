@@ -1,0 +1,22 @@
+<style> 
+div {
+  width: 100px;
+  height: 100px;
+  background: rgb(16, 81, 219);
+  transition-property: width, height;
+  transition-duration: 5s;
+}
+
+div:hover {
+  width: 300px;
+  background: yellow;
+  height: 300px;
+}
+</style>
+</head>
+<body>
+<div></div>
+<h1>CSS TRANSTITION</h1>
+
+</body>
+</html>
