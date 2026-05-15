@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Position and Layout</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>HEADER</header>
+
+    <nav>NAVIGATION</nav>
+
+    <div class="container">
+        <aside>SIDEBAR</aside>
+        <main>MAIN CONTENT</main>
+    </div>
+
+    <footer>FOOTER</footer>
+
+</body>
+</html>
