@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Class</title>
+</head>
+<body>
+
+    <h1>Today's Class - Types of CSS</h1>
+
+    <p style="background-color: yellow;">INLINE CSS</p>
+
+    <p style="background-color: bisque;">
+        Selecting a style in separate tags
+    </p>
+
+    <p style="color: blue;">
+        Inline CSS is used for putting style in tags
+    </p>
+
+    <h1 style="text-align: center;">CSS Class</h1>
+
+    <p style="font-size: larger;">
+        Need to understand properly.
+    </p>
+
+    <p style="text-align: center;">
+        Practice clearly.
+    </p>
+
+</body>
+</html>
