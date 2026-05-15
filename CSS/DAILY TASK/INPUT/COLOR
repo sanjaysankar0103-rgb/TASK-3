@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>LARGE TITLE</h1>
+    <h2>MID TITLE</h2>
+    <h3>TITLE</h3>
+    <H4>SUB TITLE</h4>
+    <h5>MID SIZE</h5>
+    <h6>SMALL SIZE</h6>
+
+    <style>
+        h1{
+            background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+        }
+    </style>
+</body>
+</html>
