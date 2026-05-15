@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internal CSS</title>
+
+    <style>
+        p{
+            color: aliceblue;
+            background-color: black;
+            text-align: center;
+        }
+    </style>
+
+</head>
+<body>
+
+    <h1>Today's Class CSS Types of CSS</h1>
+
+    <p>INTERNAL CSS</p>
+    <p>SELECTING A STYLE IN OVERALL TAGS</p>
+    <p>INTERNAL CSS IS USING CREATE NEW STYLE TAG IN HEAD PORTION SEPARATELY</p>
+
+    <h1>CSS CLASS</h1>
+
+    <p>Need to understand properly.</p>
+    <p>Practice clearly.</p>
+
+</body>
+</html>
