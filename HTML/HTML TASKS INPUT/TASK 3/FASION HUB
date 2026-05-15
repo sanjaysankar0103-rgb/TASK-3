@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fashion Store</title>
+</head>
+<body bgcolor="SEA BLUE">
+
+    <center>
+        <h1>FASHION HUB</h1>
+        <p>Latest Trends and Best Collection</p>
+        <hr width="80%">
+    </center>
+
+    <center>
+        <table border="1" width="80%" cellpadding="15" bgcolor="white">
+            <tr bgcolor="lightgray">
+                <td><center><b>Home</b></center></td>
+                <td><center><b>Products</b></center></td>
+                <td><center><b>Offers</b></center></td>
+                <td><center><b>Contact</b></center></td>
+            </tr>
+        </table>
+    </center>
+
+    <br><br>
+
+    <center>
+        <h2>Our Products</h2>
+
+        <table border="1" width="80%" cellpadding="20" bgcolor="white">
+            <tr>
+                <td align="center">
+                    <h3>Men Shirt</h3>
+                    <p>Price: ₹799</p>
+                    <button>Buy Now</button>
+                </td>
+
+                <td align="center">
+                    <h3>Women Dress</h3>
+                    <p>Price: ₹1299</p>
+                    <button>Buy Now</button>
+                </td>
+
+                <td align="center">
+                    <h3>Casual Shoes</h3>
+                    <p>Price: ₹1499</p>
+                    <button>Buy Now</button>
+                </td>
+            </tr>
+
+            <tr>
+                <td align="center">
+                    <h3>Hand Bag</h3>
+                    <p>Price: ₹999</p>
+                    <button>Buy Now</button>
+                </td>
+
+                <td align="center">
+                    <h3>Watch</h3>
+                    <p>Price: ₹1999</p>
+                    <button>Buy Now</button>
+                </td>
+
+                <td align="center">
+                    <h3>Jeans</h3>
+                    <p>Price: ₹1199</p>
+                    <button>Buy Now</button>
+                </td>
+            </tr>
+        </table>
+    </center>
+
+    <br><br>
+
+    <center>
+        <h2>About Us</h2>
+        <p>We provide quality fashion products at affordable prices.</p>
+    </center>
+
+    <hr width="80%">
+
+    <center>
+        <p>Email: fashionhub@gmail.com</p>
+        <p>Phone: 9876543210</p>
+        <p>© 2026 Fashion Hub</p>
+    </center>
+
+</body>
+</html>
